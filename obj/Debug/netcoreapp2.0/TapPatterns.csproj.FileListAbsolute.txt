@@ -1,0 +1,10 @@
+D:\Workspace\dotnetcore\TapPatterns\bin\Debug\netcoreapp2.0\TapPatterns.deps.json
+D:\Workspace\dotnetcore\TapPatterns\bin\Debug\netcoreapp2.0\TapPatterns.runtimeconfig.json
+D:\Workspace\dotnetcore\TapPatterns\bin\Debug\netcoreapp2.0\TapPatterns.runtimeconfig.dev.json
+D:\Workspace\dotnetcore\TapPatterns\bin\Debug\netcoreapp2.0\TapPatterns.dll
+D:\Workspace\dotnetcore\TapPatterns\bin\Debug\netcoreapp2.0\TapPatterns.pdb
+D:\Workspace\dotnetcore\TapPatterns\obj\Debug\netcoreapp2.0\TapPatterns.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnetcore\TapPatterns\obj\Debug\netcoreapp2.0\TapPatterns.AssemblyInfoInputs.cache
+D:\Workspace\dotnetcore\TapPatterns\obj\Debug\netcoreapp2.0\TapPatterns.AssemblyInfo.cs
+D:\Workspace\dotnetcore\TapPatterns\obj\Debug\netcoreapp2.0\TapPatterns.dll
+D:\Workspace\dotnetcore\TapPatterns\obj\Debug\netcoreapp2.0\TapPatterns.pdb
